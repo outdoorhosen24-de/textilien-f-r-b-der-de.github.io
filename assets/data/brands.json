@@ -1,17 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +14,66 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "meusch",
+        "name": "Meusch",
+        "slug": "meusch",
+        "productCategory": "Meusch",
+        "localThumb": "/assets/images/hersteller/meusch.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "kleine wolke",
+        "name": "Kleine Wolke",
+        "slug": "kleine-wolke",
+        "productCategory": "Kleine Wolke",
+        "localThumb": "/assets/images/hersteller/kleine-wolke.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "msv",
+        "name": "MSV",
+        "slug": "msv",
+        "productCategory": "MSV",
+        "localThumb": "/assets/images/hersteller/msv.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "spirella elements",
+        "name": "Spirella Elements",
+        "slug": "spirella-elements",
+        "productCategory": "Spirella Elements",
+        "localThumb": "/assets/images/hersteller/spirella-elements.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "spirella",
+        "name": "Spirella",
+        "slug": "spirella",
+        "productCategory": "Spirella",
+        "localThumb": "/assets/images/hersteller/spirella.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "lalee",
+        "name": "Lalee",
+        "slug": "lalee",
+        "productCategory": "Lalee",
+        "localThumb": "/assets/images/hersteller/lalee.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "baliv",
+        "name": "baliv",
+        "slug": "baliv",
+        "productCategory": "baliv",
+        "localThumb": "/assets/images/hersteller/baliv.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "schöner wohnen",
+        "name": "Schöner Wohnen",
+        "slug": "schoener-wohnen",
+        "productCategory": "Schöner Wohnen",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen.webp"
     }
 ]
