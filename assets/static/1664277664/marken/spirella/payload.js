@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/spirella", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/spirella-badteppich-highland-55-cm-x-65-cm-marine-spirella-1419720-1.jpg":"\u002Fassets\u002Fimages\u002Fspirella-badteppich-highland-55-cm-x-65-cm-marine-spirella-1419720-1.webp"}}],fetch:{},mutations:void 0});
