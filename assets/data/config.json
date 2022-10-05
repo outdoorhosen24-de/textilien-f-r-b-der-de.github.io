@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "textilien-für-bäder.de",
-    "hostname": "https://www.textilien-für-bäder.de/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "textilien-f\u00fcr-b\u00e4der.de",
+    "hostname": "https://www.textilien-f\u00fcr-b\u00e4der.de/",
+    "email": "textilien-f\u00fcr-b\u00e4der.desurrealnetworks.io",
+    "organization": "textilien-f\u00fcr-b\u00e4der.de",
+    "logoText": "Textilien-f\u00fcr-b\u00e4der.de",
+    "title": "Badtextilien",
+    "subline": "Der Online Shop f\u00fcr Badtextilien",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8725293",
+        "3446077",
+        "7769482",
+        "8379174",
+        "8157018",
+        "9788126"
+    ],
+    "winnerProducts": [
+        "9787805",
+        "8379265",
+        "9788332"
+    ],
+    "featuredCategories": [
+        "Badteppiche & Vorleger",
+        "Handt\u00fccher",
+        "Handt\u00fccher",
+        "Handt\u00fccher",
+        "Handt\u00fccher",
+        "Badteppiche & Vorleger"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badtextilien",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop findest du alles rund um Badtextilien. Wir f\u00fchren Handt\u00fccher, Badem\u00e4ntel, Duschvorh\u00e4nge und vieles mehr in verschiedenen Farben und Designs. Auch f\u00fcr Kinder haben wir eine gro\u00dfe Auswahl an Badtextilien. Schau dich einfach in Ruhe um und finde die Badtextilien, die zu dir und deinem Bad passen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Badtextilien-Shop: Badezimmer-Textilien f\u00fcr jeden Geschmack!",
+            "metaDescription": "In unserem Shop findest du alles rund um Badtextilien. Von Handt\u00fcchern \u00fcber Badem\u00e4nteln bis hin zu Badteppichen - hier wirst du f\u00fcndig!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Badtextilien: Kleidung, die nicht mehr gut aussieht",
+                    "text": "Badtextilien sind ein gro\u00dfes Problem in unserer Gesellschaft. Sie sind \u00fcberall, in unseren Kleidern, in unseren Handt\u00fcchern, in unseren Bettlaken und in unseren Vorh\u00e4ngen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nBadtextilien sind ein gro\u00dfes Problem in unserer Gesellschaft. Sie sind \u00fcberall, in unseren Kleidern, in unseren Handt\u00fcchern, in unseren Bettlaken und in unseren Vorh\u00e4ngen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nJedes Jahr werden Millionen Tonnen an Badtextilien produziert. Die meisten davon werden in L\u00e4ndern hergestellt, die keine Umweltvorschriften haben. Diese L\u00e4nder verbrennen oder vergraben die Badtextilien, was zu Umweltverschmutzung und Gesundheitsproblemen f\u00fchrt.\n\nIn Deutschland werden jedes Jahr mehr als 500.000 Tonnen an Badtextilien produziert. Die meisten davon werden in China hergestellt. Die Badtextilien werden dann nach Deutschland verschifft, wo sie in Gesch\u00e4ften und Online-Shops verkauft werden.\n\nBadtextilien sind ein gro\u00dfes Problem f\u00fcr unsere Umwelt. Sie sollten vermieden werden, wo immer m\u00f6glich."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badtextilien-Shop: Badezimmer-Textilien f\u00fcr jeden Geschmack!",
+            "metaDescription": "Im Shop findest du alles rund um Badtextilien. Handt\u00fccher, Badem\u00e4ntel, Duschvorh\u00e4nge und mehr.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badtextilien-Hersteller",
+            "metaDescription": "Badtextilien-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Badtextilien f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badtextilien: Handt\u00fccher, Bettw\u00e4sche & mehr f\u00fcr dein Zuhause - $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badtextilien f\u00fcr Ihr Badezimmer. Handt\u00fccher, Badem\u00e4ntel, Duschvorh\u00e4nge und mehr. $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badtextilien: Handt\u00fccher, Duschvorh\u00e4nge & mehr f\u00fcr dein $KATEGORIE",
+        "defaultMetaDescription": "Badtextilien: Handt\u00fccher, Badem\u00e4ntel, Duschvorh\u00e4nge und mehr f\u00fcr dein Bad. Jetzt bei $KATEGORIE entdecken!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Badtextilien $HERSTELLER - hochwertige Handt\u00fccher, Badem\u00e4ntel, Duschvorh\u00e4nge und mehr f\u00fcr Ihr Badezimmer. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Badtextilien",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Badtextilien Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Badtextilien Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
