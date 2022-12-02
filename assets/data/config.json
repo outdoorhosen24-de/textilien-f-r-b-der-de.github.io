@@ -51,12 +51,15 @@
             "title": "Badtextilien-Shop: Badezimmer-Textilien für jeden Geschmack!",
             "metaDescription": "In unserem Shop findest du alles rund um Badtextilien. Von Handtüchern über Bademänteln bis hin zu Badteppichen - hier wirst du fündig!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Badtextilien: Kleidung, die nicht mehr gut aussieht",
-                    "text": "Badtextilien sind ein großes Problem in unserer Gesellschaft. Sie sind überall, in unseren Kleidern, in unseren Handtüchern, in unseren Bettlaken und in unseren Vorhängen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nBadtextilien sind ein großes Problem in unserer Gesellschaft. Sie sind überall, in unseren Kleidern, in unseren Handtüchern, in unseren Bettlaken und in unseren Vorhängen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nJedes Jahr werden Millionen Tonnen an Badtextilien produziert. Die meisten davon werden in Ländern hergestellt, die keine Umweltvorschriften haben. Diese Länder verbrennen oder vergraben die Badtextilien, was zu Umweltverschmutzung und Gesundheitsproblemen führt.\n\nIn Deutschland werden jedes Jahr mehr als 500.000 Tonnen an Badtextilien produziert. Die meisten davon werden in China hergestellt. Die Badtextilien werden dann nach Deutschland verschifft, wo sie in Geschäften und Online-Shops verkauft werden.\n\nBadtextilien sind ein großes Problem für unsere Umwelt. Sie sollten vermieden werden, wo immer möglich."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Badtextilien: Kleidung, die nicht mehr gut aussieht",
+                        "text": "Badtextilien sind ein großes Problem in unserer Gesellschaft. Sie sind überall, in unseren Kleidern, in unseren Handtüchern, in unseren Bettlaken und in unseren Vorhängen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nBadtextilien sind ein großes Problem in unserer Gesellschaft. Sie sind überall, in unseren Kleidern, in unseren Handtüchern, in unseren Bettlaken und in unseren Vorhängen. Sie sind aus Kunststoff und sind nicht biologisch abbaubar. Sie verstopfen unsere Abwassersysteme und belasten die Umwelt.\n\nJedes Jahr werden Millionen Tonnen an Badtextilien produziert. Die meisten davon werden in Ländern hergestellt, die keine Umweltvorschriften haben. Diese Länder verbrennen oder vergraben die Badtextilien, was zu Umweltverschmutzung und Gesundheitsproblemen führt.\n\nIn Deutschland werden jedes Jahr mehr als 500.000 Tonnen an Badtextilien produziert. Die meisten davon werden in China hergestellt. Die Badtextilien werden dann nach Deutschland verschifft, wo sie in Geschäften und Online-Shops verkauft werden.\n\nBadtextilien sind ein großes Problem für unsere Umwelt. Sie sollten vermieden werden, wo immer möglich."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badtextilien-Shop: Badezimmer-Textilien für jeden Geschmack!",
