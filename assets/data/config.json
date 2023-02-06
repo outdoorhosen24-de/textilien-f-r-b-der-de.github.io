@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "textilien-für-bäder.de",
     "hostname": "https://www.textilien-für-bäder.de/",
     "email": "textilien-für-bäder.de@surrealnetworks.io",
     "organization": "textilien-für-bäder.de",
     "logoText": "Textilien-für-bäder.de",
-    "title": "Badtextilien",
-    "subline": "Der Online Shop für Badtextilien",
+    "title": "Shop für Badtextilien",
+    "subline": "Holen Sie sich den Wohlfühl-Faktor ins eigene Bad!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badtextilien",
-        "featureText": "In unserem Shop findest du alles rund um Badtextilien. Wir führen Handtücher, Bademäntel, Duschvorhänge und vieles mehr in verschiedenen Farben und Designs. Auch für Kinder haben wir eine große Auswahl an Badtextilien. Schau dich einfach in Ruhe um und finde die Badtextilien, die zu dir und deinem Bad passen.",
+        "featureText": "Willkommen in unserem Onlineshop! Ihnen fehlen noch die richtigen Handtücher, Badteppiche und Vorleger? Dann haben Sie mit uns den richtigen Shop gefunden! Produkte in tollen Designs, verschiedenen Farben und nur von top Herstellern. Alles in hochwertiger Qualität zu fairen Preisen. Überzeugen Sie sich selbst und klicken Sie sich einfach durch unseren Shop.",
         "index": {
-            "title": "Badtextilien-Shop: Badezimmer-Textilien für jeden Geschmack!",
-            "metaDescription": "In unserem Shop findest du alles rund um Badtextilien. Von Handtüchern über Bademänteln bis hin zu Badteppichen - hier wirst du fündig!",
+            "title": "Badtextilien | Alles für Ihr Badezimmer",
+            "metaDescription": "In unserem Shop finden Sie eine große Auswahl an Handtüchern, Badteppichen und Vorlegern. | Top Qualität | Günstige Preise | Schnelle Lieferung",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Badtextilien-Shop: Badezimmer-Textilien für jeden Geschmack!",
-            "metaDescription": "Im Shop findest du alles rund um Badtextilien. Handtücher, Bademäntel, Duschvorhänge und mehr.",
+            "title": "Der Shop für Badtextilien | Große Auswahl & günstige Preise ",
+            "metaDescription": "Finden Sie hier die besten Angebote für Ihr Badezimmer! Einfach online das passende Produkt aussuchen und schnell zu Ihnen nach Hause liefern lassen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badtextilien-Hersteller",
-            "metaDescription": "Badtextilien-Hersteller bietet eine große Auswahl an hochwertigen Badtextilien für jeden Geschmack.",
+            "title": "Badtextilien | Entdecken Sie unsere Hersteller!",
+            "metaDescription": "Die beste Auswahl für Ihr Badezimmer | MSV • Schöner Wohnen • Wenko • Lalee • Meusch • BWO • uvm. | Erstklassige Qualität zu fairen Preisen!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Badtextilien: Handtücher, Bettwäsche & mehr für dein Zuhause - $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Badtextilien für Ihr Badezimmer. Handtücher, Bademäntel, Duschvorhänge und mehr. $KATEGORIE.",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "Bei uns tolle Produkte wie $PRODUKT von den besten Herstellern wie $HERSTELLER kaufen! Hier klicken und weitere Angebote in der Kategorie $KATEGORIE entdecken!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badtextilien: Handtücher, Duschvorhänge & mehr für dein $KATEGORIE",
-        "defaultMetaDescription": "Badtextilien: Handtücher, Bademäntel, Duschvorhänge und mehr für dein Bad. Jetzt bei $KATEGORIE entdecken!",
+        "defaultTitle": "$KATEGORIE | Top Produkte günstig shoppen",
+        "defaultMetaDescription": "Ihnen fehlt das gewisse Etwas für Ihr Bad? Dann hier klicken und die besten Produkte in unserer Kategorie $KATEGORIE entdecken!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Badtextilien $HERSTELLER - hochwertige Handtücher, Bademäntel, Duschvorhänge und mehr für Ihr Badezimmer. Jetzt online bestellen!",
+        "defaultTitle": "$HERSTELLER | Tolle Ideen für Ihr Bad!",
+        "defaultMetaDescription": "In unserem Shop finden Sie nur hochwertige Badtextilien von top Marken wie $HERSTELLER - hochwertige Handtücher, Badvorleger & Teppiche. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
